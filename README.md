@@ -1,6 +1,7 @@
 # Zomato-EDA-Case-Study
-Use of python to expolre the data of restaurant chains acorss India for Zomato which is a food delivery service. 
-Objective:
+Use of python to expolre the data of restaurant chains acorss India for Zomato which is a restaurant search platform where customers also come for rating places in cities.
+
+# Objective:
 To utilize exploratory data analysis (EDA) skills to understand customer preferences,
 dining trends, and competitive landscape in various regions of India, and to design
 an effective marketing campaign for a restaurant chain.
